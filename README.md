@@ -1,5 +1,5 @@
 # Personal-Porject
-Personal Projects that completed inside and outside of the class for CSC161
+Personal Projects that completed inside and outside of the class for CSC161 using C and CSC207 using Java
 
 
 ## Acknowledgement
